@@ -1,12 +1,12 @@
 <img src="https://github.com/VolneiTonato/VolneiTonato/blob/master/assets/logo.png?raw=true" />
 <h1 align="center">Volnei Tonato</h1>
 
-
+<div align="center">
 <a href="https://www.linkedin.com/in/volnei-tonato/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Volnei Tonato" height="20" width="20" /></a>
 <a href="https://www.facebook.com/volnei.tonato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Volnei Tonato" height="20" width="20" /></a>
 <a href="https://www.instagram.com/volneitonato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Volnei Tonato" height="20" width="20px" /></a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5554991519686"><img align="center" alt="Whatsapp" height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
-
+</div>
 
 
 ---
