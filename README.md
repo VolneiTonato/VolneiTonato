@@ -1,6 +1,5 @@
-<img src="./assets/logo.png" />
+<img src="https://github.com/VolneiTonato/VolneiTonato/blob/master/assets/logo.png?raw=true" />
 <h1 align="center">Volnei Tonato</h1>
-<h2 align="center"></h2>
 
 
 <a href="https://www.linkedin.com/in/volnei-tonato/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Volnei Tonato" height="20" width="20" /></a>
