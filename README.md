@@ -14,14 +14,14 @@ _**Me chamo Volnei Tonato e sou FullStack Developer 👩‍💻 👩‍💻**_
 
 - 🌱 Estudando Docker Swarm.
 
-- 👨‍💻 Atualmente sou freelancer.
+- 👨‍💻 Atualmente sou freelancer em Nodejs, Reactjs, React Native e php.
 
 - 💬 Sobre mim: Estou sempre buscando novas formas de aprender tecnologia mas nunca perco a essência.
 
 - 📫 Meu contato: **volneitonato@gmail.com**
 
 
-> **Skills**
+> _**Hard Skills**_
 
 <div align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
