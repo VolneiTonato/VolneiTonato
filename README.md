@@ -14,7 +14,7 @@ _**Me chamo Volnei Tonato e sou FullStack Developer 👩‍💻 👩‍💻**_
 
 - 🌱 Estudando Docker Swarm.
 
-- 👨‍💻 Atualmente sou freelancer em Nodejs, Reactjs, React Native e php.
+- 👨‍💻 Atualmente sou freelancer em Nodejs, Nextjs Reactjs, React Native e php.
 
 - 💬 Sobre mim: Estou sempre buscando novas formas de aprender tecnologia mas nunca perco a essência.
 
