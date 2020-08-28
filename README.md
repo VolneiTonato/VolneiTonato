@@ -1,26 +1,28 @@
-<img src="https://github.com/VolneiTonato/VolneiTonato/blob/master/assets/logo.png?raw=true" />
-<h1 align="center">Volnei Tonato</h1>
+### Olá Amigos!!! :wave:
 
-<div align="center">
-<a href="https://www.linkedin.com/in/volnei-tonato/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Volnei Tonato" height="20" width="20" /></a>
-<a href="https://www.facebook.com/volnei.tonato" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Volnei Tonato" height="20" width="20" /></a>
-<a href="https://www.instagram.com/volneitonato" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Volnei Tonato" height="20" width="20px" /></a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5554991519686"><img align="center" alt="Whatsapp" height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
-</div>
-
+_**Me chamo Volnei Tonato e sou FullStack Developer 👩‍💻 👩‍💻**_
 
 ---
 
+<img src="https://github.com/VolneiTonato/VolneiTonato/blob/master/assets/logo.png?raw=true" width="200" align="right" />
 
-- 🌱 I’m currently learning Next.js ,typescript and Kubernetes; 
 
-- 👨‍💻 I currently work as a freelnacer
 
-- 💬 Ask me about **JavaScript, Typescript, Nodejs, React, Reac Native, Typeorm, HTML, CSS**
+- 🚀 Buscando novos desafios.
 
-- 📫 How to reach me: **volneitonato@gmail.com**
+- :star2: Buscando colaborar em projetos desafiadores.
 
-**Languages and Tools**
+- 🌱 Estudando Docker Swarm.
+
+- 👨‍💻 Atualmente sou freelancer.
+
+- 💬 Sobre mim: Estou sempre buscando novas formas de aprender tecnologia mas nunca perco a essência.
+
+- 📫 Meu contato: **volneitonato@gmail.com**
+
+
+> **Skills**
+
 <div align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
